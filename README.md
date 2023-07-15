@@ -1,5 +1,5 @@
 - 👋 Hi, I’m amirhossein
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on Back-End
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : amirgolami131385@gmail.com
