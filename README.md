@@ -7,14 +7,18 @@
 
 - 🔭 I’m currently working on [Booking project](https://github.com/itsamirdev/booking)
 
-- 👨‍💻 All of my projects are available at [https://github.com/KillerFx666?tab=repositories](https://github.com/KillerFx666?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/itsamirdev?tab=repositories](https://github.com/itsamirdev?tab=repositories)
 
-- 📝 I regularly write a article about design patterns [https://virgool.io/@killer-fx/%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-design-pattern-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A8%D8%AF%D8%B1%D8%AF%D8%AA%D9%88%D9%86-%D9%85%DB%8C%D8%AE%D9%88%D8%B1%D9%87-jqh0tuuuvaih8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A8%D8%AF%D8%B1%D8%AF%D8%AA%D9%88%D9%86-%D9%85%DB%8C%D8%AE%D9%88%D8%B1%D9%87-jqh0tuuuvaih](https://virgool.io/@killer-fx/%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-design-pattern-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A8%D8%AF%D8%B1%D8%AF%D8%AA%D9%88%D9%86-%D9%85%DB%8C%D8%AE%D9%88%D8%B1%D9%87-jqh0tuuuvaih8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A8%D8%AF%D8%B1%D8%AF%D8%AA%D9%88%D9%86-%D9%85%DB%8C%D8%AE%D9%88%D8%B1%D9%87-jqh0tuuuvaih)
+- 📝 I regularly write a article about design patterns [https://vrgl.ir/fuGw9](https://vrgl.ir/fuGw9)
+
+- 💬 Ask me about **Django & drf**
 
 - 📫 How to reach me **amirgolami131385@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/amirhossein-gholami-59129927b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein-gholami-59129927b" height="30" width="40" /></a>
+<a href="https://instagram.com/itsamir.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsamir.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
