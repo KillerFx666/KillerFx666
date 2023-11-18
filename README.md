@@ -1,5 +1,27 @@
-- 👋 Hi, I’m amirhossein
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me : amirgolami131385@gmail.com
+<h1 align="center">Hi 👋, I'm Amirhossein</h1>
+<h3 align="center">A passionate backend developer from iran</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsamirdev&label=Profile%20views&color=0e75b6&style=flat" alt="itsamirdev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsamirdev" alt="itsamirdev" /></a> </p>
+
+- 🔭 I’m currently working on [Booking project](https://github.com/itsamirdev/booking)
+
+- 👨‍💻 All of my projects are available at [https://github.com/KillerFx666?tab=repositories](https://github.com/KillerFx666?tab=repositories)
+
+- 📝 I regularly write a article about design patterns [https://virgool.io/@killer-fx/%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-design-pattern-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A8%D8%AF%D8%B1%D8%AF%D8%AA%D9%88%D9%86-%D9%85%DB%8C%D8%AE%D9%88%D8%B1%D9%87-jqh0tuuuvaih8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A8%D8%AF%D8%B1%D8%AF%D8%AA%D9%88%D9%86-%D9%85%DB%8C%D8%AE%D9%88%D8%B1%D9%87-jqh0tuuuvaih](https://virgool.io/@killer-fx/%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-design-pattern-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A8%D8%AF%D8%B1%D8%AF%D8%AA%D9%88%D9%86-%D9%85%DB%8C%D8%AE%D9%88%D8%B1%D9%87-jqh0tuuuvaih8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A8%D8%AF%D8%B1%D8%AF%D8%AA%D9%88%D9%86-%D9%85%DB%8C%D8%AE%D9%88%D8%B1%D9%87-jqh0tuuuvaih)
+
+- 📫 How to reach me **amirgolami131385@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsamirdev&show_icons=true&locale=en&layout=compact" alt="itsamirdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsamirdev&show_icons=true&locale=en" alt="itsamirdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsamirdev&" alt="itsamirdev" /></p>
