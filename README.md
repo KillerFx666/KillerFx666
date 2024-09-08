@@ -26,10 +26,10 @@
 
 - #### My goal is to become a versatile developer capable of navigating both the technical and operational facets of software projects. I am passionate about problem-solving, learning new technologies, and collaborating with other developers and stakeholders.<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" > 
 
-- #### I am currently pursuing my High School Diploma in Computer Science at bagher-al-ulum, where I have also published several articles on topics such as design patterns, Linux, and Multi processing in Python. Additionally, I am currently learning _`Germanas`_ third language. <br/> <br/>
+- #### I am currently pursuing my High School Diploma in Computer Science at bagher-al-ulum, where I have also published several articles on topics such as design patterns, Linux, and Multi processing in Python. Additionally, I am currently learning _`German`_ as third language. <br/> <br/>
 
 <!--=================================== CONTACT ====================================-->
-- 🔭 I’m currently working on [Booking project](https://github.com/itsamirdev/booking)
+- 🔭 I’m currently working on [Booking project](https://github.com/itsamirdev/booking) & [FastApiProject](https://github.com/itsamirdev/FastApiProject)
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />  I regularly write a article about design patterns <a href="https://hashnode.com/@itsamirdev">https://hashnode.com/@itsamirdev</a>
 
