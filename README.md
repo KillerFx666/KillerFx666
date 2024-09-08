@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /> I'm Amirhossein</h1>
-<h3 align="center">A passionate backend developer from iran </h3>
+<h3 align="center">A passionate backend developer</h3>
 <!--=================================== SOCIAL MEDIA ====================================-->
   <div align="center">
     
@@ -33,9 +33,9 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />  I regularly write a article about design patterns <a href="https://hashnode.com/@itsamirdev">https://hashnode.com/@itsamirdev</a>
 
--  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" /> Ask me about <b>Django & drf</b>
+-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" /> Ask me about <b>Python & DevOps</b>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> How to reach me  <b>amirhosseindev@gmail.com <b>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> How to reach me  <b>itsamirhosseindev@gmail.com <b>
 <br/>
 <!--=================================== SKILLS ====================================-->
 
